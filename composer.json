@@ -1,0 +1,13 @@
+{
+    "name": "sitepoint/mailcatcher",
+    "description": "Simple setup for SitePoint MailCatcher tutorial",
+    "require": {
+        "swiftmailer/swiftmailer": "5.1.*@dev"
+    },
+    "authors": [
+        {
+            "name": "Matthew Setter",
+            "email": "matthew@maltblue.com"
+        }
+    ]
+}
